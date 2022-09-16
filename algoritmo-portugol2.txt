@@ -1,0 +1,49 @@
+ex1)
+inicio
+inteiro: numero,soma;
+escreva("entre com seu numero inteiro");
+leia(numero)
+
+soma <- numer%2
+se soma = 0;
+    escreva("esse numero é par");
+
+senão se soma = 1;
+    escreva("esse numero é impar")    
+    fim_se
+
+fim
+
+ex2)
+inicio
+caractere: usuario, senha;
+escreva ("entre com o usuario");
+leia(usuario);
+escreva ("entre com a senha");
+leia(senha);
+
+se (usuario = "procopio" e senha = "12345") || (usuario = "paiva" e senha = "54321)
+escreva("seja bem vindo");
+
+senãos
+ escreva("usuario e senha não conferem");
+ fim_se
+
+ fim
+
+ex3)
+inicio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
